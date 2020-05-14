@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Striko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Striko\\.nuget\\packages"
+    ]
+  }
+}
